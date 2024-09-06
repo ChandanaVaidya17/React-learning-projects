@@ -7,17 +7,12 @@ function App() {
 
   let [counter,setCounter] = useState(15)
 
-  // let counter = 15
-
   const addValue = () => {
-    // console.log("value added", Math.random())
     counter = counter +1
     setCounter(counter)
   }
 
   const removeValue = () => {
-    // console.log("value added", Math.random())
-    // counter = counter - 1
     if (counter > 0){
       setCounter(counter - 1)
 
