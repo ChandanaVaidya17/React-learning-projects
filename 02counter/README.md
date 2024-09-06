@@ -13,4 +13,4 @@ Welcome to the Counter App! This is a basic project designed to help you learn a
 Features
 Increment Button: Increases the count by 1.
 Decrement Button: Decreases the count by 1.
-Reset Button (optional): Resets the count to zero.
+
