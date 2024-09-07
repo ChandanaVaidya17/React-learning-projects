@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 # React Card Component with Vite and Tailwind CSS
 This project demonstrates a simple React card component styled with Tailwind CSS and set up using Vite. It showcases how to use props to dynamically populate the card content.
+
+this just concerns on combining tailwind css and using props in the react projects
