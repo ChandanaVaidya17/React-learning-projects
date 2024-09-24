@@ -65,5 +65,12 @@ npm run dev
 
 Open your browser and go to `http://localhost:3000` (or the port indicated in your terminal).
 
+## Usage
+
+- Click on any of the color buttons to change the background color of the webpage.
+- The available colors are predefined, but you can modify or add more in the `src/App.js` file.
+```
+
+Feel free to use this as needed!
 
 
