@@ -21,9 +21,3 @@ A simple web application built with React, Vite.js, and Tailwind CSS that allows
 
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/background-changer.git
