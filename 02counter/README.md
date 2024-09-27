@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 # Counter App
 Welcome to the Counter App! This is a basic project designed to help you learn and practice fundamental concepts in React js. The app allows you to increase or decrease a count by pressing the corresponding buttons.
 
-Features
+Features:
 - Increment Button: Increases the count by 1.
 - Decrement Button: Decreases the count by 1 but not when counter is 0.
 
