@@ -6,13 +6,12 @@ Welcome to my repository of React projects! This repository is a collection of R
 
 - [Projects](#projects)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Projects
 
 Here is a list of projects included in this repository:
 
 - **Counter App.**
+- 
 Thank you for checking out my React projects!
 happy learning.
