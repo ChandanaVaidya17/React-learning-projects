@@ -8,7 +8,6 @@ Welcome to my repository of React projects! This repository is a collection of R
 - [Contributing](#contributing)
 
 ## Projects
-
 Here is a list of projects included in this repository:
 
 - **Counter App.**
