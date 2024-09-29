@@ -16,4 +16,5 @@ Here is a list of projects included in this repository:
 
 
 Thank you for checking out my React projects!
+Anybody interested can add projects here while learning
 happy learning.
