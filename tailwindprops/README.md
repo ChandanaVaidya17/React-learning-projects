@@ -23,7 +23,7 @@ This project is a simple React application created to learn and practice the usa
 
 
 
-# React Card Component with Vite and Tailwind CSS
+# React Card Components with Vite and Tailwind CSS
 This project demonstrates a simple React card component styled with Tailwind CSS and set up using Vite. It showcases how to use props to dynamically populate the card content.
 
 this is only with concerns on combining tailwind css and using props in the react projects
