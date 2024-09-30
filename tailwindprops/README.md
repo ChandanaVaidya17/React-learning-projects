@@ -1,4 +1,4 @@
-# React Props and Tailwind CSS Learning Project
+# React Props and Tailwind CSS Learning
 
 This project is a simple React application created to learn and practice the usage of props and Tailwind CSS for styling.
 
