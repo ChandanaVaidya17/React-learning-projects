@@ -2,7 +2,7 @@
 
 This project is a simple React application created to learn and practice the usage of props and Tailwind CSS for styling.
 
-## Features
+## Feature:
 
 - **React Components**: Demonstrates how to pass and utilize props in functional components.
 - **Tailwind CSS**: Implements Tailwind for responsive and utility-first styling.
