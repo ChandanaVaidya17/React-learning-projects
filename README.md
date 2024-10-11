@@ -1,4 +1,4 @@
-# React Projects Repository
+# React Projects Repo
 
 Welcome to my repository of React projects! This repository is a collection of React applications and projects that I am working on while learning React. The projects are added daily and showcase different aspects of React development.
 
