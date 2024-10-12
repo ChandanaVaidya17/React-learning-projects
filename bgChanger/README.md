@@ -71,6 +71,3 @@ Open your browser and go to `http://localhost:3000` (or the port indicated in yo
 - The available colors are predefined, but you can modify or add more in the `src/App.js` file.
 ```
 
-Feel free to use this as needed!
-
-
