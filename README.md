@@ -14,6 +14,6 @@ Here is a list of projects included in this repository:
 - **Learninng of adding tailwind to react and use of props**
 
 
-Thank you for checking out my React projects!
+Thank you for checking out my React projects of react!
 Anybody interested can add projects here while learning
 happy learning.
